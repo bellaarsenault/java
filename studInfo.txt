@@ -1,0 +1,4 @@
+Sarah, Jones, 123 Main St., 9, 67, 87, 93, 68
+George, Michaels, 88 Princess St., 10, 56, 87, 78, 92
+Tom, Hinks, 432 Orange Dr., 11, 56, 78, 74, 68
+Penny, Winkle, 89 Toronto St., 12, 78, 84, 86, 88
